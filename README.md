@@ -29,5 +29,8 @@ Teoría y ejercicios del Curso Práctico de JavaScript de platzi
 - activar una funcion con onclick
 > *Carpeta Clase3.*
 ## Clase 4: addEventListener
-- addEventListener
+- addEventListener -> recibe evento y funcion
+- click
+- submit
+- event -> captrura el evento como tal, en el ejemplo captura el submit del formulario
 > *Carpeta Clase4.*
